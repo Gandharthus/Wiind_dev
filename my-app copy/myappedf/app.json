@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "myappedf",
+    "slug": "myappedf",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "myappedf"
+}
